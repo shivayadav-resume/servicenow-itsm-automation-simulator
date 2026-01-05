@@ -1,0 +1,16 @@
+[
+  {
+    "number": "INC0010001",
+    "category": "Application",
+    "impact": "High",
+    "urgency": "Medium",
+    "state": "New"
+  },
+  {
+    "number": "INC0010002",
+    "category": "Network",
+    "impact": "Low",
+    "urgency": "Low",
+    "state": "In Progress"
+  }
+]
